@@ -1,0 +1,15 @@
+{
+    "name": "hxjzq/yyalg",
+    "authors": [
+        {
+            "name": "github hxjzq",
+            "email": "jiangzongqi@foxmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "One\\Web\\":"src/"
+        }
+    }
+}
